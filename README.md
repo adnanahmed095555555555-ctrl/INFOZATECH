@@ -43,3 +43,38 @@ InfozaTech — Data Science Internship
 
 This project is part of my Data Science internship task work.# INFOZATECH
 Data science Internship Projects
+
+Project 2: Titanic Survival Prediction
+
+Objective
+
+Predict whether a Titanic passenger survived using passenger information and machine learning.
+
+Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+Workflow
+
+1. Loaded and explored the Titanic dataset.
+2. Handled missing values and prepared categorical features.
+3. Visualized survival counts and survival by gender.
+4. Trained a Random Forest Classifier.
+5. Evaluated the model using accuracy, a confusion matrix, and feature importance.
+
+Results
+
+- Model: Random Forest Classifier
+- Test Accuracy: 82.12%
+- Evaluation: Confusion matrix and feature importance graph
+
+Note: Accuracy is based on the selected train-test split.
+
+Notebook
+
+"Titanic Survival Prediction" (Titanic_Survival_Prediction.ipynb)
