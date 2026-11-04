@@ -75,6 +75,39 @@ Results
 
 Note: Accuracy is based on the selected train-test split.
 
-Notebook
 
-"Titanic Survival Prediction" (Titanic_Survival_Prediction.ipynb)
+Project3. Sales Prediction
+
+Objective: To develop a Machine Learning model that predicts product sales based on advertising expenditure.
+
+Technologies Used:
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+Algorithm: Linear Regression
+
+Dataset: Advertising Dataset (TV, Radio, Newspaper and Sales).
+
+Model Performance:
+
+- MAE: 1.46
+- MSE: 3.17
+- RMSE: 1.78
+- R² Score: 89.94%
+
+Visualizations:
+
+- Advertising vs Sales
+- Pairplot Analysis
+- Actual vs Predicted Sales
+- Advertising Impact on Sales
+
+Conclusion:
+
+Successfully developed a Linear Regression model to predict sales using advertising data. The model achieved an R² score of 89.94%, demonstrating good predictive performance.
