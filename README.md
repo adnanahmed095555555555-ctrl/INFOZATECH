@@ -44,7 +44,7 @@ InfozaTech — Data Science Internship
 This project is part of my Data Science internship task work.# INFOZATECH
 Data science Internship Projects
 
-Project 2: Titanic Survival Prediction
+Project-2: Titanic Survival Prediction
 
 Objective
 
@@ -76,7 +76,7 @@ Results
 Note: Accuracy is based on the selected train-test split.
 
 
-Project3. Sales Prediction
+Project-3. Sales Prediction
 
 Objective: To develop a Machine Learning model that predicts product sales based on advertising expenditure.
 
